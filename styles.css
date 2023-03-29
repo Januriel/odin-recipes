@@ -1,4 +1,12 @@
-h1.heading {
+.flair {
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.center {
     text-align: center;
-    color: blue;
+}
+
+.banner {
+    color: #412d0a;
+    font-family: 'Courier New', Courier, monospace;
 }
