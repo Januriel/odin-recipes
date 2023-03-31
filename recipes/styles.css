@@ -11,3 +11,8 @@ h1,
     color: #412d0a;
     font-family: 'Courier New', Courier, monospace;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+}
